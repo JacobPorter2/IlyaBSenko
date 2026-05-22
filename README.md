@@ -33,6 +33,9 @@
 <p align="center">
   <img valign="top" width="420" src="https://github-readme-stats-eight-theta-92.vercel.app/api?username=IlyaBSenko&show_icons=true&cache_seconds=21600&theme=github_dark&hide_border=true" />
   <img valign="top" width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=IlyaBSenko&layout=compact&cache_seconds=21600&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=CS,CS480PA1,CS480PA2,CS480-LaTex-Files,CS327,CS343-PrepsLabs,CS240-BST,CS343-latorGator,CS240-SORTING,CS345HW7,CS345HW6,CS345HW5,CS345HW4,SagaciousMedia&hide=yaml,markdown" />
+  <!-- School only (excludes personal projects) 
+  <img valign="top" width="360" src="https://github-readme-stats-eight-theta-92.vercel.app/api/top-langs/?username=IlyaBSenko&layout=compact&cache_seconds=21600&theme=github_dark&hide_border=true&langs_count=10&exclude_repo=Reaction-Tester,Project-Picker,RLPalindrome,IlyaBSenko,LEGENDS,Socials,Tasks,ICEMAN,Git-Langs,TODO,All-Langs,LocalPlays,GitCheatSheet,dotfiles,BoGamble-Sort,Password-Vault,Git-Status-Checker,BASIC-Collection,AllSorts-Java,Sudoku,MathBook,AbraKadabra,67-Ass,WordGuessr,Hour-Tracker,github-readme-stats,Musictionary,Binary-Converter,NULLTERMINATOR,PongGame,SW_GAME&hide=yaml,markdown" />
+  -->
   
 <!-- top langs hide=java / exclude_repos--> 
 
